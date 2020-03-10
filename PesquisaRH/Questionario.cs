@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pesquisa
+namespace PesquisaRH
 {
     public class Questionario
     {
@@ -12,3 +12,4 @@ namespace Pesquisa
         public Categoria Categoria { get; private set; }
     }
 }
+
